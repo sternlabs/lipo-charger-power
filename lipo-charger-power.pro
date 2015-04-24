@@ -1,4 +1,4 @@
-update=Fri 24 Apr 2015 01:42:01 AM CEST
+update=Fri 24 Apr 2015 12:24:47 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -97,3 +97,4 @@ LibName65=kicad-libs/tp4056
 LibName66=kicad-libs/buck-sot23-5
 LibName67=kicad-libs/pot
 LibName68=kicad-libs/pmos
+LibName69=kicad-libs/jumper
