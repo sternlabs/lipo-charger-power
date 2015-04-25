@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-jan-16 BZR unknown)-product   date = Sat 25 Apr 2015 07:07:29 PM CEST
+
+BeginCmp
+TimeStamp = /553974AF;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = SMD-2012:SMD-2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /5539756F;
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = SMD-2012:SMD-2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397B88;
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = SMD-2012:SMD-2012;
+EndCmp
+
+BeginCmp
+TimeStamp = /553996EE;
+Reference = C4;
+ValeurCmp = 18p;
+IdModule  = SMD-1608:SMD-1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /55398E44;
+Reference = D1;
+ValeurCmp = CHRG;
+IdModule  = kicad-libs:SMD-1608-LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /55398EC6;
+Reference = D2;
+ValeurCmp = STDBY;
+IdModule  = kicad-libs:SMD-1608-LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /553965D0;
+Reference = J1;
+ValeurCmp = USB-MICROB;
+IdModule  = kicad-libs:USB-MICRO-B-FCI-10118192;
+EndCmp
+
+BeginCmp
+TimeStamp = /553975CA;
+Reference = J2;
+ValeurCmp = BAT;
+IdModule  = kicad-libs:TERM-2-3.5-PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /553A1B20;
+Reference = J3;
+ValeurCmp = SENSE;
+IdModule  = HEADER-1x2:HEADER-1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /553976E2;
+Reference = J4;
+ValeurCmp = VREG;
+IdModule  = kicad-libs:TERM-2-3.5-PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397A4D;
+Reference = L1;
+ValeurCmp = 2.2u;
+IdModule  = kicad-libs:SMD-2520;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397BCD;
+Reference = MH1;
+ValeurCmp = MOUNTHOLE;
+IdModule  = kicad-libs:HOLE-M2-COND;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397C32;
+Reference = MH2;
+ValeurCmp = MOUNTHOLE;
+IdModule  = kicad-libs:HOLE-M2-COND;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397C4F;
+Reference = MH3;
+ValeurCmp = MOUNTHOLE;
+IdModule  = kicad-libs:HOLE-M2-COND;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397C6C;
+Reference = MH4;
+ValeurCmp = MOUNTHOLE;
+IdModule  = kicad-libs:HOLE-M2-COND;
+EndCmp
+
+BeginCmp
+TimeStamp = /55398F35;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = SMD-1608:SMD-1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /55398EFD;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = SMD-1608:SMD-1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /5539A0EE;
+Reference = R3;
+ValeurCmp = 1k 1%;
+IdModule  = SMD-1608:SMD-1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /553983F8;
+Reference = R4;
+ValeurCmp = 255k 1%;
+IdModule  = SMD-1608:SMD-1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /553B9651;
+Reference = R5;
+ValeurCmp = 1.15M 1%;
+IdModule  = SMD-1608:SMD-1608;
+EndCmp
+
+BeginCmp
+TimeStamp = /55399EFD;
+Reference = RP1;
+ValeurCmp = 20k 25%;
+IdModule  = kicad-libs:SMD-POT-3831;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397DB3;
+Reference = RP2;
+ValeurCmp = 2M 10%;
+IdModule  = kicad-libs:POT-3296W;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397468;
+Reference = U1;
+ValeurCmp = TP4056;
+IdModule  = kicad-libs:SOIC-8-N-EP;
+EndCmp
+
+BeginCmp
+TimeStamp = /55397994;
+Reference = U2;
+ValeurCmp = NCP1529;
+IdModule  = sot-23-5:SOT-23-5;
+EndCmp
+
+EndListe
