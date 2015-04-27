@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (after 2015-jan-16 BZR unknown)-product   date = Sat 25 Apr 2015 07:07:29 PM CEST
+Cmp-Mod V01 Created by Cvpcb (after 2015-jan-16 BZR unknown)-product   date = Sun 26 Apr 2015 03:01:10 PM CEST
 
 BeginCmp
 TimeStamp = /553974AF;
@@ -60,7 +60,7 @@ BeginCmp
 TimeStamp = /553A1B20;
 Reference = J3;
 ValeurCmp = SENSE;
-IdModule  = HEADER-1x2:HEADER-1x2;
+IdModule  = kicad-libs:HEADER-1x2;
 EndCmp
 
 BeginCmp
@@ -81,28 +81,28 @@ BeginCmp
 TimeStamp = /55397BCD;
 Reference = MH1;
 ValeurCmp = MOUNTHOLE;
-IdModule  = kicad-libs:HOLE-M2-COND;
+IdModule  = kicad-libs:HOLE-M2.5-COND;
 EndCmp
 
 BeginCmp
 TimeStamp = /55397C32;
 Reference = MH2;
 ValeurCmp = MOUNTHOLE;
-IdModule  = kicad-libs:HOLE-M2-COND;
+IdModule  = kicad-libs:HOLE-M2.5-COND;
 EndCmp
 
 BeginCmp
 TimeStamp = /55397C4F;
 Reference = MH3;
 ValeurCmp = MOUNTHOLE;
-IdModule  = kicad-libs:HOLE-M2-COND;
+IdModule  = kicad-libs:HOLE-M2.5-COND;
 EndCmp
 
 BeginCmp
 TimeStamp = /55397C6C;
 Reference = MH4;
 ValeurCmp = MOUNTHOLE;
-IdModule  = kicad-libs:HOLE-M2-COND;
+IdModule  = kicad-libs:HOLE-M2.5-COND;
 EndCmp
 
 BeginCmp
