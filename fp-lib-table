@@ -30,7 +30,6 @@
   (lib (name PWSON-12)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/PWSON-12.mod)(options "")(descr ""))
   (lib (name MCHCK)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/MCHCK.mod)(options "")(descr ""))
   (lib (name LGA-8)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/LGA-8.mod)(options "")(descr ""))
-  (lib (name HEADER-1x2)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/HEADER-1x2.mod)(options "")(descr ""))
   (lib (name DQFN-14)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/DQFN-14.mod)(options "")(descr ""))
   (lib (name DFN-10)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/DFN-10.mod)(options "")(descr ""))
 )
